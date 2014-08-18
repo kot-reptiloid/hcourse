@@ -14,3 +14,5 @@ def digitInput():
 print("Write number: ")
 test_digitInput = digitInput()
 print("digitInput result:\n -> " + str(test_digitInput))
+
+input()
